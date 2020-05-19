@@ -1,5 +1,20 @@
-<html><head></head><body><div id="main">
+<html><head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="jquery.rwdImageMaps.min.js"></script>
+<script>
+    $(document).ready(function(e) {
+        $('img[usemap]').rwdImageMaps();
+    });
+</script>
+</head><body>
+
+	<div id="main">
 		<div id="content">
 			<div id="stage">
-				<img id="refimg" src="202005161021.svg" title="SVG Image" style="width: 100%; object-fit: contain; opacity: 100; background: none;">
+				<img id="refimg" src="202005161021.svg" title="SVG Image" style="width: 100%; object-fit: contain; opacity: 100; background: none;" usemap="#image-map">
+					<map name="image-map">
+					    <area target="" alt="Contact Us" title="Contact Us" href="mailto:service@19gale.ai" coords="325,3306,487,3433" shape="rect">
+					    <area target="" alt="19Gale Twitter" title="19Gale Twitter" href="https://twitter.com/19galeAi/" coords="532,3305,701,3435" shape="rect">
+					    <area target="" alt="Contact Us" title="Contact Us" href="mailto:service@19gale.ai" coords="896,18,985,57" shape="rect">
+					</map>
 	</div></div></div></body></html>
