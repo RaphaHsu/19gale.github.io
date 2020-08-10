@@ -53,15 +53,15 @@
   <path fill-rule="evenodd" clip-rule="evenodd" d="M336.864 101.548L345.512 106.657V108.586L336.864 103.477V101.548Z" fill="#009AD6"/>
   <path fill-rule="evenodd" clip-rule="evenodd" d="M336.864 104.534L342.956 108.133V110.063L336.864 106.464V104.534Z" fill="#009AD6"/>
   <text x="502" y="148" stroke="1" fill="#333" style="font-weight: 700; font-size:14px; letter-spacing: 1px">Care AI-as-a-Service</text>
-  <text x="482" y="170" stroke="1" fill="#333" style="font-size:12px; letter-spacing: 0.6px">Automated data analysis and prediction</text>
-  <text x="300" y="158" stroke="1" fill="#333" style="font-weight: 700; font-size:14px; letter-spacing: 1px">Public/Private Cloud</text>
-  <text x="285" y="181" stroke="1" fill="#333" style="font-size:12px; letter-spacing: 0.6px">Collect the physiological data</text>
-  <text x="30" y="332" stroke="1" fill="#333" style="font-weight: 700; font-size:14px; letter-spacing: 1px">The users wearing the Smart Wristband</text>
-  <text x="30" y="355" stroke="1" fill="#333" style="font-size:12px; letter-spacing: 0.6px">Monitor the physiological indicators continuously</text>
-  <text x="700" y="332" stroke="1" fill="#333" style="font-weight: 700; font-size:14px; letter-spacing: 1px">Data collection for Backend</text>
-  <text x="680" y="354" stroke="1" fill="#333" style="font-size:12px; letter-spacing: 0.6px">Gather and manage the user information</text>
-  <text x="390" y="468" stroke="1" fill="#333" style="font-weight: 700; font-size:14px; letter-spacing: 1px">Automated Notification</text>
-  <text x="350" y="489" stroke="1" fill="#333" style="font-size:12px; letter-spacing: 0.6px">Manager can track existing employee health</text>
+  <text x="482" y="170" stroke="1" fill="#333" style="font-size:12px; letter-spacing: 0.6px">自動かつ正確なオートメーションシステム</text>
+  <text x="300" y="158" stroke="1" fill="#333" style="font-weight: 700; font-size:14px; letter-spacing: 1px">クラウドデータベース</text>
+  <text x="285" y="181" stroke="1" fill="#333" style="font-size:12px; letter-spacing: 0.6px">ユーザーの生理データを収集</text>
+  <text x="30" y="332" stroke="1" fill="#333" style="font-weight: 700; font-size:14px; letter-spacing: 1px">スマートウォッチを着用したユーザー</text>
+  <text x="30" y="355" stroke="1" fill="#333" style="font-size:12px; letter-spacing: 0.6px">生理データを継続的にモニタリング</text>
+  <text x="740" y="332" stroke="1" fill="#333" style="font-weight: 700; font-size:14px; letter-spacing: 1px">バックエンド</text>
+  <text x="680" y="354" stroke="1" fill="#333" style="font-size:12px; letter-spacing: 0.6px">データ収集からバックエンドへのデータ送信</text>
+  <text x="390" y="468" stroke="1" fill="#333" style="font-weight: 700; font-size:14px; letter-spacing: 1px">健康状態の異常を自動通知</text>
+  <text x="350" y="489" stroke="1" fill="#333" style="font-size:12px; letter-spacing: 0.6px">マネージャーは従業員の健康を追跡管理</text>
   <path fill-rule="evenodd" clip-rule="evenodd" d="M264.241 206.801C264.241 205.77 263.404 204.933 262.373 204.933H229.46C228.428 204.933 227.592 205.77 227.592 206.801V281.464C227.592 282.494 228.428 283.331 229.46 283.331H262.373C263.404 283.331 264.241 282.494 264.241 281.464V206.801Z" fill="#CEF2FF"/>
   <path fill-rule="evenodd" clip-rule="evenodd" d="M262.563 208.353C262.563 207.416 261.802 206.656 260.865 206.656H230.955C230.018 206.656 229.257 207.416 229.257 208.353V280.001C229.257 280.938 230.018 281.698 230.955 281.698H260.865C261.802 281.698 262.563 280.938 262.563 280.001V208.353Z" fill="#464646"/>
   <path fill-rule="evenodd" clip-rule="evenodd" d="M242.106 256.307H232.477C231.651 256.307 230.98 255.636 230.98 254.81V224.005C230.98 223.179 231.651 222.509 232.477 222.509H258.855C259.681 222.509 260.352 223.179 260.352 224.005V254.81C260.352 255.636 259.681 256.307 258.855 256.307H249.724C249.012 254.931 247.572 254.001 245.915 254.001C244.259 254.001 242.819 254.931 242.106 256.307Z" fill="#2A85BE"/>
